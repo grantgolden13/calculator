@@ -1,12 +1,12 @@
-function add(a, b) {
-    return a + b;
+const add = function(num1, num2) {
+    return num1 + num2;
 }
-function subtract(a, b) {
-    return a - b;
+const subtract = function(num1, num2) {
+    return num1 - num2;
 }
-function multiply(a, b) {
-    return a * b;
+const multiply = function(num1, num2) {
+    return num1 * num2;
 }
-function divide(a, b) {
-    return a / b;
+const divide = function(num1, num2) {
+    return num1 / num2;
 }
